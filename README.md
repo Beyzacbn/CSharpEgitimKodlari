@@ -69,4 +69,28 @@ Console.WriteLine() metodunu kullandım .</br>
   
  ## :mag_right:   10- Veri Tabanı CRUD İşlemleri
  * Hazırlamış olduğum veri tabanında listeleme,ekleme,silme,güncelleme işlemleri yaptım.
+
+
+#  C# 301 
+
+* Bu bölümde OOP yapısını verimli kullanabilmek için n katmanlı mimariden yararlandım.
+* Çok katmanlı mimari sayesinde sınıf yapısını efektif bir şekilde kavradım.
+* Katmanlı mimari kullanmak kodumuzun hata yönetimini kolaylaştırdı ve kodun modüler olmasını sağladı. ( EntityLayer-DataAccessLayer-BusinessLayer-PresentationLayer)
+* Katmanlarımızı oluşturduktan sonra concrete içinde sırayla kullanacağımız tabloları oluşturdum. (CodeFirst)
+* Tablo ilişkilerini düzenleyerek DataAccess katmanını hazırladım.
+* Veritabanı bağlantı adresimizi ve veritabanına yansıyacak tabloları tutan Context sınıfını oluşturdum.
+* Migration işlemlerini tamamladım.
+* Abstract interfaceleri oluşturdum.(repository design pattern)
+  
+# C# 301 - Entity Framework
+
+* Sql tablolarımı hazırladım.(DbFirst)
+* Form App üzerinde Entity Framework mantığıyla modelimi oluşturdum.
+* Entity Framework metotlarını kullanarak Rehber işlemlerinden oluşan bir proje yaptım.
+* Yeni bir form üzerinden Location tablomu kullanarak pratik yaptım.
+* İstatistiklerden oluşan bir proje yapacağım için öncelikle form tasarımı yaptım.
+* Tur projem üzerinde entity framework metotlarını kullandım, aynı zamanda Linq sorgular kullanarak farklı istatistikleri de elde ederek form ekranıma yansıttım.
+
+
+
       
