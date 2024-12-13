@@ -62,4 +62,11 @@ Console.WriteLine() metodunu kullandım .</br>
  ## :mag_right:   8- Metotlar
 * Metotları kullanarak yazdığım kodların daha fonsiyonel ve tekrar kullanılabilir hale geldiğini fark ettim.
 * Geriye değer döndürmeyen int ve string parametreli metotlar ile geriye değer döndüren int ve string parametreli metotları inceledim çeşitli örnekler yaptım.
+
+ ## :mag_right:   9- Veri Tabanı Bağlantıları
+* SQL bağlantılarını gerçekleştirdim.
+* Veri tabanlı ürün bilgilendirme sistemi hazırladım.
+  
+ ## :mag_right:   10- Veri Tabanı CRUD İşlemleri
+ * Hazırlamış olduğum veri tabanında listeleme,ekleme,silme,güncelleme işlemleri yaptım.
       
