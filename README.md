@@ -86,11 +86,11 @@ Console.WriteLine() metodunu kullandım .</br>
 
 * Sql tablolarımı hazırladım.(DbFirst)
 * Form App üzerinde Entity Framework mantığıyla modelimi oluşturdum.
-* Entity Framework metotlarını kullanarak Rehber işlemlerinden oluşan bir proje yaptım.
+* Entity Framework metotlarını(ToList()-Add()-Remove()) kullanarak Rehber işlemlerinden oluşan bir proje yaptım.
 * Yeni bir form üzerinden Location tablomu kullanarak pratik yaptım.
 * İstatistiklerden oluşan bir proje yapacağım için öncelikle form tasarımı yaptım.
 * Tur projem üzerinde entity framework metotlarını kullandım, aynı zamanda Linq sorgular kullanarak farklı istatistikleri de elde ederek form ekranıma yansıttım.
 
-
+![FrmStatistics](https://github.com/user-attachments/assets/49f5ef7d-c46b-4c02-ad8d-f717413e706a)
 
       
